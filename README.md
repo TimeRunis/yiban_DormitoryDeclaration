@@ -35,3 +35,7 @@ CREATE TABLE `list` (<br>
   `IsEnd` tinyint(1) NOT NULL,<br>
   PRIMARY KEY (`ListId`)<br>
 ) ENGINE=InnoDB AUTO_INCREMENT=43 DEFAULT CHARSET=utf8	<br>
+<br>
+
+本项目使用了amaze ui的css
+http://amazeui.shopxo.net/css/
